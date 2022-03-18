@@ -2,7 +2,7 @@
 - 👀 I’m interested in ..coding and coding
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on real professionnal projects
--    I'm a real hard worker , I just get lazy pushing my projects :p 
+- 🛋️ I'm a real hard worker , I just get lazy pushing my projects 
 - 📫 How to reach me email: hzoe598@gmail.com
  
 <!---
