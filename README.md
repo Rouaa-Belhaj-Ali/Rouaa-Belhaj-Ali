@@ -2,7 +2,8 @@
 - 👀 I’m interested in ..coding and coding
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on real professionnal projects
-- 📫 How to reach me ...
+-    I'm a real hard worker , I just get lazy pushing my projects 
+- 📫 How to reach me +21656456165
  
 <!---
 Rouaa-Belhaj-Ali/Rouaa-Belhaj-Ali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
