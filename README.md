@@ -2,7 +2,7 @@
 Rouaa a passionate  developer who is addicted to technology and always seeking new challenges.<br> been tinkering with computers since i was a young girl, and my love for coding has only grown stronger with time. Im  a self-taught programmer, and my curiosity and thirst for knowledge have led me to become proficient in several programming languages, including Python, Java, and JavaScript. <br><br><br><br>
 
 
-<div style="padding-top:74.600%;position:relative;"><iframe src="https://gifer.com/embed/8qG" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+<iframe src="https://gifer.com/embed/8qG" width=480 height=358.080 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>>
 
 
 ## 🌐 Socials:
