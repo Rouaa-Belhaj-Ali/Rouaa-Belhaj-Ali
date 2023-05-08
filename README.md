@@ -1,14 +1,13 @@
 
-https://camo.githubusercontent.com/7a2579ae89a93b9aad59775e752448c6d6b90a27ccd6bd7a352cc23410799630/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c526c626c4d4472786962714634324834342f67697068792e676966
 
-
+![Kvtf](https://user-images.githubusercontent.com/68033931/236926272-3e2d62f4-3883-4cf7-96ec-51675ee9f867.gif)
 
 
 
 # 💫 About Me:
 Rouaa a passionate  developer who is addicted to technology and always seeking new challenges.<br> been tinkering with computers since i was a young girl, and my love for coding has only grown stronger with time. Im  a self-taught programmer, and my curiosity and thirst for knowledge have led me to become proficient in several programming languages, including Python, Java, and JavaScript. <br><br><br><br>
 
-![Kvtf](https://user-images.githubusercontent.com/68033931/236926272-3e2d62f4-3883-4cf7-96ec-51675ee9f867.gif)
+
 
 
 ## 🌐 Socials:
