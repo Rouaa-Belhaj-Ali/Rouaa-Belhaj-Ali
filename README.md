@@ -4,7 +4,7 @@
 
 
 
-# 💫 WhoAmI:
+# https://joypixels.com/profiles/animated/woman-fairy WhoAmI:
 Rouaa a passionate  developer who is addicted to technology and always seeking new challenges.<br> been tinkering with computers since i was a young girl, and my love for coding has only grown stronger with time. Im  a self-taught programmer, and my curiosity and thirst for knowledge have led me to become proficient in several programming languages, including Python, Java, and JavaScript. <br><br><br><br>
 
 
