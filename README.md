@@ -4,7 +4,7 @@
 
 
 
-# https://joypixels.com/profiles/animated/woman-fairy WhoAmI:
+# ![146382f0-1aa0-4bfa-b365-13b921fd51d6](https://github.com/Rouaa-Belhaj-Ali/Rouaa-Belhaj-Ali/assets/68033931/f8d3a0fa-4b68-480b-9c43-49d527052bce) WhoAmI:
 Rouaa a passionate  developer who is addicted to technology and always seeking new challenges.<br> been tinkering with computers since i was a young girl, and my love for coding has only grown stronger with time. Im  a self-taught programmer, and my curiosity and thirst for knowledge have led me to become proficient in several programming languages, including Python, Java, and JavaScript. <br><br><br><br>
 
 
