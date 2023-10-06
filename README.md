@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Rouaa Belhaj Ali</h1>
 
 
-< src ="https://tenor.com/fr/view/diegodrawsart-women-and-girls-in-science-day-science-scientist-gif-24767287"/>
+<img src ="https://tenor.com/fr/view/diegodrawsart-women-and-girls-in-science-day-science-scientist-gif-24767287"/>
 
 
 # 👩‍💻 WhoAmI:
