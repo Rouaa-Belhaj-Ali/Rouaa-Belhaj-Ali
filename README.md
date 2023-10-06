@@ -1,7 +1,8 @@
 <h1 align="center">Hello 👋, I'm Rouaa Belhaj Ali</h1>
 
 
-<iframe src="https://giphy.com/embed/fCn8epiKi6in9NVQjg" width="480" height="390" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/BWTT-ceo-black-women-talk-tech-bwtt-fCn8epiKi6in9NVQjg">via GIPHY</a></p> 
+![Alt Text](https://giphy.com/gifs/BWTT-ceo-black-women-talk-tech-bwtt-fCn8epiKi6in9NVQjg/fullscreen)
+
 # 👩‍💻 WhoAmI:
 Rouaa a passionate software developer who is addicted to technology and always seeking new challenges.<br> been tinkering with computers since i was a young girl, and my love for coding has only grown stronger with time. Im  a self-taught programmer, and my curiosity and thirst for knowledge have led me to become proficient in several programming languages. <br><br><br><br>
 
