@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋, I'm Rouaa Belhaj Ali</h1>
 
+ <img src="https://assets.pinterest.com/ext/embed.html?id=330451691423172042"  height="714" width="345"   
+     alt="Alt Text">
 
-![img gif](https://assets.pinterest.com/ext/embed.html?id=330451691423172042)
 
 
 
-<img src="https://assets.pinterest.com/ext/embed.html?id=26951297764000115"></img>
 
 # 👩‍💻 WhoAmI:
 Rouaa a passionate software developer who is addicted to technology and always seeking new challenges.<br> been tinkering with computers since i was a young girl, and my love for coding has only grown stronger with time. Im  a self-taught programmer, and my curiosity and thirst for knowledge have led me to become proficient in several programming languages. <br><br><br><br>
