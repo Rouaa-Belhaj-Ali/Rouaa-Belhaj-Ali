@@ -1,8 +1,8 @@
 <h1 align="center">Hello 👋, I'm Rouaa Belhaj Ali</h1>
 
- <img src="https://assets.pinterest.com/ext/embed.html?id=330451691423172042"  height="714" width="345"   
+ <img align= "right" src="https://assets.pinterest.com/ext/embed.html?id=330451691423172042"  height="714" width="345"   
      alt="Alt Text">
-
+<img align = "left" src="https://i.pinimg.com/originals/a2/8f/d2/a28fd235b3427804fa951fc0bfdf8d6f.jpg">
 
 
 
