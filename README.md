@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Rouaa Belhaj Ali</h1>
 
  <img align= "right" src="https://i.pinimg.com/originals/9b/60/13/9b6013eba490d169d221a8ae704b8b2d.jpg" height = 350 width =350>
-<img align = "left" src="https://i.pinimg.com/originals/d7/31/14/d73114c408f42e4041d585ee34eb1a37.jpg">
+<img align = "left" src="https://pin.it/6yjos3R">
 
 
 
