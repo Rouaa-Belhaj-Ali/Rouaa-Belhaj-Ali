@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Rouaa Belhaj Ali</h1>
 
-<img src="https://gifdb.com/gif/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.html?embed=true" alt="">
+<img src="https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.gif" alt="">
 
 
 # 👩‍💻 WhoAmI:
