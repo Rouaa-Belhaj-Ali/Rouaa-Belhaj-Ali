@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Rouaa Belhaj Ali</h1>
 
-<img align="right" src="https://www.pinterest.com/pin/633387440744290/">
+<img align="right" src="[https://www.pinterest.com/pin/633387440744290/](https://i.pinimg.com/originals/a2/8f/d2/a28fd235b3427804fa951fc0bfdf8d6f.jpg)">
 
 <img align="left" src = "https://www.pinterest.com/pin/623185667206533250/">
 
