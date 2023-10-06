@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Rouaa Belhaj Ali</h1>
 
 
-![https://giphy.com/gifs/BWTT-ceo-black-women-talk-tech-bwtt-fCn8epiKi6in9NVQjg/fullscreen]()
+<img align= "right" alt="coding" width= "400" src = "https://giphy.com/gifs/BWTT-ceo-black-women-talk-tech-bwtt-fCn8epiKi6in9NVQjg">
 
 
 # 👩‍💻 WhoAmI:
