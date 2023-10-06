@@ -2,8 +2,7 @@
 
 <img src="https://assets.pinterest.com/ext/embed.html?id=881087114589563256" height="774" width="345" frameborder="0" scrolling="no" ></img>
 
-<img align="left" src = "https://www.pinterest.com/pin/623185667206533250/">
-
+<img src="https://assets.pinterest.com/ext/embed.html?id=26951297764000115" height="395" width="236" frameborder="0" scrolling="no" ></img>
 
 # 👩‍💻 WhoAmI:
 Rouaa a passionate software developer who is addicted to technology and always seeking new challenges.<br> been tinkering with computers since i was a young girl, and my love for coding has only grown stronger with time. Im  a self-taught programmer, and my curiosity and thirst for knowledge have led me to become proficient in several programming languages. <br><br><br><br>
