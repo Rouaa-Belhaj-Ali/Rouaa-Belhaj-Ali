@@ -2,7 +2,7 @@
 
 <img align="right" src="https://www.pinterest.com/pin/633387440744290/">
 
-<img align="left" src = "">
+<img align="left" src = "https://www.pinterest.com/pin/623185667206533250/">
 
 
 # 👩‍💻 WhoAmI:
