@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Rouaa Belhaj Ali</h1>
 
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=881087114589563256" height="774" width="345" frameborder="0" scrolling="no" ></iframe>
+<img src="https://assets.pinterest.com/ext/embed.html?id=881087114589563256" height="774" width="345" frameborder="0" scrolling="no" ></img>
 
 <img align="left" src = "https://www.pinterest.com/pin/623185667206533250/">
 
