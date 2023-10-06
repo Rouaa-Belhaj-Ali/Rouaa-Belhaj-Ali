@@ -3,9 +3,9 @@
 
 ![img gif](https://assets.pinterest.com/ext/embed.html?id=330451691423172042)
 
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=330451691423172042" height="714" width="345" frameborder="0" scrolling="no" ></iframe>
 
-<img src="https://assets.pinterest.com/ext/embed.html?id=26951297764000115" height="395" width="236" frameborder="0" scrolling="no" ></img>
+
+<img src="https://assets.pinterest.com/ext/embed.html?id=26951297764000115"></img>
 
 # 👩‍💻 WhoAmI:
 Rouaa a passionate software developer who is addicted to technology and always seeking new challenges.<br> been tinkering with computers since i was a young girl, and my love for coding has only grown stronger with time. Im  a self-taught programmer, and my curiosity and thirst for knowledge have led me to become proficient in several programming languages. <br><br><br><br>
