@@ -2,7 +2,7 @@
 
 <img align="right" src="https://www.pinterest.com/pin/633387440744290/sent/?invite_code=807c3c653dfc47c18df24f60e83b3b4f&sender=874894802519364712&sfo=1" alt="lol">
 
-<img align="left" src = "https://www.pinterest.com/pin/8866530507383840/sent/?invite_code=67c37331ad8a4cdd810d0a35f0f29617&sender=874894802519364712&sfo=1" alt="toto">
+<img align="left" src = "[https://www.pinterest.com/pin/8866530507383840/sent/?invite_code=67c37331ad8a4cdd810d0a35f0f29617&sender=874894802519364712&sfo=1](https://www.pinterest.com/pin/8866530507383840/)" alt="toto">
 
 
 # 👩‍💻 WhoAmI:
