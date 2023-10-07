@@ -3,7 +3,7 @@
 <img src = "https://media.tenor.com/ubkgsEHmfe4AAAAC/anime-aesthetic.gif">
 <h2 align ="right">
  
- <img align= "right" src="https://i.pinimg.com/564x/e8/59/da/e859da69c8f3398dd8b6b0afa4052fbe.jpg" height = 350 width =350> </h2>
+ <img align= "right" src="https://i.pinimg.com/564x/e8/59/da/e859da69c8f3398dd8b6b0afa4052fbe.jpg" > </h2>
   
 
 
