@@ -2,7 +2,7 @@
 
 <h2 align= "right" > SetUp  
  <img align= "right" src="https://i.pinimg.com/originals/9b/60/13/9b6013eba490d169d221a8ae704b8b2d.jpg" height = 350 width =350> </h2>
-<img align= "left" src="(https://64.media.tumblr.com/a9e2ca6dce40d9f0aed757fe7cc134a3/2c0add43f8a95764-67/s1280x1920/331ede8b23f635d3149d0a176958861d671f68f2.gifv) ">
+<img align= "left" src="<div class="tenor-gif-embed" data-postid="19097735" data-share-method="host" data-aspect-ratio="1.63265" data-width="100%"><a href="https://tenor.com/view/lofi-gif-19097735">Lofi GIF</a>from <a href="https://tenor.com/search/lofi-gifs"></a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>"></img>
 
 
 
