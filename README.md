@@ -2,8 +2,8 @@
 
 <img src = "https://media.tenor.com/ubkgsEHmfe4AAAAC/anime-aesthetic.gif">
 <h2 align ="right">
- SetUp  
- <img align= "right" src="https://i.pinimg.com/originals/9b/60/13/9b6013eba490d169d221a8ae704b8b2d.jpg" height = 350 width =350> </h2>
+ 
+ <img align= "right" src="https://i.pinimg.com/564x/e8/59/da/e859da69c8f3398dd8b6b0afa4052fbe.jpg" height = 350 width =350> </h2>
   
 
 
