@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Rouaa Belhaj Ali </h1>
 
-<img src = "![image](https://github.com/Rouaa-Belhaj-Ali/Rouaa-Belhaj-Ali/assets/68033931/c53f47a8-59cd-4feb-b166-7f9a4520ff66)
+<img src = "https://github.com/Rouaa-Belhaj-Ali/Rouaa-Belhaj-Ali/assets/68033931/c53f47a8-59cd-4feb-b166-7f9a4520ff66
 ">
 <h2 align ="right">
  SetUp  
