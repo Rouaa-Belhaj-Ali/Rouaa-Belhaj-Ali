@@ -1,6 +1,7 @@
 <h1 align="center">Hello 👋, I'm Rouaa Belhaj Ali </h1>
 
-<img src = "https://64.media.tumblr.com/a9e2ca6dce40d9f0aed757fe7cc134a3/2c0add43f8a95764-67/s1280x1920/331ede8b23f635d3149d0a176958861d671f68f2.gifv">
+<img src = "![image](https://github.com/Rouaa-Belhaj-Ali/Rouaa-Belhaj-Ali/assets/68033931/be90c349-0f3d-497d-9f28-aa7c8c70d76f)
+">
 <h2 align ="right">
  SetUp  
  <img align= "right" src="https://i.pinimg.com/originals/9b/60/13/9b6013eba490d169d221a8ae704b8b2d.jpg" height = 350 width =350> </h2>
