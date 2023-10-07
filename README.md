@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Rouaa Belhaj Ali </h1>
 
-<img src = "https://media.tenor.com/ubkgsEHmfe4AAAAC/anime-aesthetic.gif width = 700">
+<img src = "https://media.tenor.com/ubkgsEHmfe4AAAAC/anime-aesthetic.gif width = 900">
 <h2 align ="right">
  
  <img align= "right" src="https://i.pinimg.com/564x/e8/59/da/e859da69c8f3398dd8b6b0afa4052fbe.jpg" > </h2>
