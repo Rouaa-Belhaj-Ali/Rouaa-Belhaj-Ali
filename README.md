@@ -1,8 +1,8 @@
-<h1 align="center">Hello 👋, I'm Rouaa Belhaj Ali </h1>
+<h1 align="center">Hello 👋, I'm Rouaa Belhaj Ali 
 
 <img src = "https://media.tenor.com/ubkgsEHmfe4AAAAC/anime-aesthetic.gif"/>
-# 👩‍💻 WhoAmI:
-Rouaa a passionate software developer who is addicted to technology and always seeking new challenges.<br> been tinkering with computers since i was a young girl, and my love for coding has only grown stronger with time. Im  a self-taught programmer, and my curiosity and thirst for knowledge have led me to become proficient in several programming languages. <br><br><br><br>
+👩‍💻 WhoAmI:
+Rouaa a passionate software developer who is addicted to technology and always seeking new challenges.<br> been tinkering with computers since i was a young girl, and my love for coding has only grown stronger with time. Im  a self-taught programmer, and my curiosity and thirst for knowledge have led me to become proficient in several programming languages. <br><br><br><br> </h1>
 <h2 align ="right">
 <img align= "right" src="https://i.pinimg.com/564x/e8/59/da/e859da69c8f3398dd8b6b0afa4052fbe.jpg" > </h2>
   
