@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Rouaa Belhaj Ali </h1>
 
-<img src ="https://tenor.com/fr/view/pixel-art-pixels-loading-computer-gif-27403766" >
+<img src ="https://giphy.com/gifs/computer-gi84IkFRzwube" >
 <h2 align ="right">
  SetUp  
  <img align= "right" src="https://i.pinimg.com/originals/9b/60/13/9b6013eba490d169d221a8ae704b8b2d.jpg" height = 350 width =350> </h2>
