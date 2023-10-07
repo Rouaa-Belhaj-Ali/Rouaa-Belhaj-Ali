@@ -2,7 +2,7 @@
 
 <h2 align= "right" > SetUp  
  <img align= "right" src="https://i.pinimg.com/originals/9b/60/13/9b6013eba490d169d221a8ae704b8b2d.jpg" height = 350 width =350> </h2>
-  <gif align= "left" src="https://tenor.com/fr/view/lofi-gif-19097735"> 
+  <gif  src="https://tenor.com/fr/view/lofi-gif-19097735"/> 
 
 
 
