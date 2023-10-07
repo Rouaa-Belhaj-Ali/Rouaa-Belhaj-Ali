@@ -3,7 +3,7 @@
 <h2 align= "right" > SetUp  
  <img align= "right" src="https://i.pinimg.com/originals/9b/60/13/9b6013eba490d169d221a8ae704b8b2d.jpg" height = 350 width =350> </h2>
   <gif  src="https://tenor.com/fr/view/lofi-gif-19097735"/> 
- <div class="tenor-gif-embed" data-postid="19097735" data-share-method="host" data-aspect-ratio="1.63265" data-width="100%"><a href="https://tenor.com/view/lofi-gif-19097735">Lofi GIF</a>from <a href="https://tenor.com/search/lofi-gifs">Lofi GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+ <div class="tenor-gif-embed" data-postid="19097735" data-share-method="host" data-aspect-ratio="1.63265" data-width="100%"><a href="https://tenor.com/view/lofi-gif-19097735">
 
 
 
